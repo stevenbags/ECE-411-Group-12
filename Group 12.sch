@@ -10522,9 +10522,9 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <text x="11.684" y="28.448" size="1.778" layer="97">Rx</text>
 <text x="19.304" y="56.388" size="1.778" layer="97">Cx</text>
 <text x="21.844" y="28.448" size="1.778" layer="97">Lx</text>
-<text x="184.15" y="1.27" size="1.778" layer="95">10/25/17</text>
+<text x="184.15" y="1.27" size="1.778" layer="95">11/1/17</text>
 <text x="205.74" y="8.89" size="1.778" layer="95">ECE 411 GROUP 12 SCHEMATIC</text>
-<text x="265.43" y="7.62" size="1.778" layer="95">1.0</text>
+<text x="265.43" y="7.62" size="1.778" layer="95">2.0</text>
 <text x="238.76" y="104.14" size="1.778" layer="97">D7</text>
 <text x="238.76" y="106.68" size="1.778" layer="97">D6</text>
 <text x="238.76" y="109.22" size="1.778" layer="97">D5</text>
